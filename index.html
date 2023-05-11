@@ -10,47 +10,105 @@
   </head>
   <body>
     <main>
-      <!-- nav section -->
-      <header class="header">
-        <div class="header__left">
-          <ul class="header__list">
-            <li class="header__item">
-              <a class="header__link" href="">About</a>
-            </li>
-            <li class="header__item">
-              <a class="header__link" href="">Store</a>
+      <!-- header section -->
+      <header>
+        <nav>
+          <ul>
+            <li><a href="https://about.google/">About</a></li>
+            <li>
+              <a href="https://play.google.com/store/games?pli=1">Store</a>
             </li>
           </ul>
+          <ul>
+            <li>
+              <a class="small-text" href="https://mail.google.com/">Gmail</a>
+            </li>
+            <li>
+              <a
+                class="small-text"
+                href="https://www.google.com/intl/tr/photos/about/"
+                >Images</a
+              >
+            </li>
+            <li class="menu-bg">
+              <img class="menu-button" src="./img/menu.png" alt="menu button" />
+            </li>
+            <li>
+              <img
+                class="profil-pic"
+                src="https://lh3.googleusercontent.com/ogw/AOLn63G3TuGz_IIyCXuQLzsGEhLZfrE3iysc19O0vdsdHA=s64-c-mo"
+                alt="profil-pic"
+              />
+            </li>
+          </ul>
+        </nav>
+      </header>
+      <!-- end header section -->
+      <!-- body section  -->
+      <section class="search-wrapper">
+        <img class="logo" src="./img/google1.png" alt="logo" />
+        <form>
+          <img class="search" src="./img/search.png" />
+          <img class="mic" src="./img/mic.png" />
+          <input type="text" placeholder="İlkaytech" />
+
+          <div class="buttons">
+            <button type="button">Google Search</button>
+            <button type="button">I'm Feeling Lucky</button>
+          </div>
+        </form>
+      </section>
+      <!-- end body section  -->
+      <!-- footer section -->
+      <footer class="footer">
+        <div class="panel">
+          <p>United Kingdom</p>
         </div>
-        <div class="header__right">
-          <ul class="header__list">
-            <li class="header__item">
-              <a class="header__link" href="">Gmail</a>
+        <div class="panel">
+          <ul>
+            <li>
+              <a
+                href="https://about.google/?utm_source=google-TR&utm_medium=referral&utm_campaign=hp-footer&fg=1"
+                >Advertising</a
+              >
             </li>
-            <li class="header__item">
-              <a class="header__link" href="">Images</a>
+            <li>
+              <a
+                href="https://smallbusiness.withgoogle.com/intl/tr_tr/?subid=tr-tr-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google&utm_medium=ep&utm_campaign=google_hpbfooter&utm_content=google_hpbfooter&gmbsrc=tr-tr-et-gs-z-gmb-s-z-u~sb-g4sb_srvcs-u#!/"
+                >Business</a
+              >
             </li>
-            <li class="header__item">
-              <a class="header__link" href=""
-                ><img
-                  src="./img/keylogo.png"
-                  class="header__link--appicon"
-                  alt=""
-              /></a>
+            <li>
+              <a href="https://www.google.com/search/howsearchworks/?fg=1"
+                >How Search Works</a
+              >
             </li>
-            <li class="header__item">
-              <a class="header__link" href=""
-                ><button class="header__link--button">Sign In</button></a
+          </ul>
+          <div class="carbon">
+            <img class="leaf" src="./img/leaf.png" alt="leaf" />
+            <a
+              href="https://sustainability.google/intl/tr/carbon-free/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=#home"
+              >Carbon neutral since 2007</a
+            >
+          </div>
+          <ul class="right">
+            <li>
+              <a href="https://policies.google.com/privacy?hl=tr&fg=1"
+                >Privacy</a
+              >
+            </li>
+            <li>
+              <a href="https://policies.google.com/terms?hl=tr&fg=1">Terms</a>
+            </li>
+            <li>
+              <a href="https://www.google.nl/#:~:text=%C5%9Eartlar-,Ayarlar"
+                >Settings</a
               >
             </li>
           </ul>
         </div>
-      </header>
-
-      <!-- end nav section -->
-      <!-- search section -->
-
-      <!-- end search section -->
+      </footer>
+      <!-- end footer section -->
     </main>
   </body>
 </html>
