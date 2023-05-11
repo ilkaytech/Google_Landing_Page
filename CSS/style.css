@@ -50,8 +50,8 @@ li a:hover {
   width: 15px;
 }
 .profil-pic {
-  width: 30px;
-  height: 32px;
+  width: auto;
+  height: auto;
   margin-top: 1px;
   border-radius: 50%;
   width: 100%;
