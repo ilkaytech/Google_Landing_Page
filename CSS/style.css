@@ -135,9 +135,6 @@ footer {
   position: fixed;
   bottom: 0;
 }
-.panel > * {
-  flex-basis: 33%;
-}
 p {
   color: grey;
   padding-left: 13px;
