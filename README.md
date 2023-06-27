@@ -2,4 +2,4 @@
 
 #### HTML - CSS Google Landing Page Clone
 
-### 🛠️ [Demo Link](https://ilkaytech.github.io/Google_Landing_Page/)
+### 🛠️ [Demo Link](https://google-landing-pad.netlify.app)
