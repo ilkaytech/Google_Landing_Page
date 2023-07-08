@@ -4,14 +4,10 @@
 
 Project aims to create google landing page.
 
-## Problem Statement
-
-- Your company has recently started on a project that aims to create a landing page. So you and your colleagues have started to work on the project.
-
 ## Project Skeleton
 
 ```
-003-google-landing-page (folder)
+google-landing-page (folder)
 |
 |----readme.md
 |----images
@@ -19,13 +15,13 @@ Project aims to create google landing page.
 |----style.css
 ```
 
-## Expected Outcome
+## Outcome
 
-![google Landing Page](google-landing.png)
+[Google Landing Page](https://cw-google-landing-page.netlify.app)
 
-## Objective
+<br>
 
-Build a Landing that is functionally similar to this: [Google Landing Page](https://cw-google-landing-page.netlify.app)
+![Google Landing Page](google-landing.png)
 
 ### The following issues are covered in the project;
 
