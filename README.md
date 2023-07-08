@@ -17,7 +17,7 @@ google-landing-page (folder)
 
 ## Outcome
 
-[Google Landing Page](https://cw-google-landing-page.netlify.app)
+🔗 [Google Landing Page](https://cw-google-landing-page.netlify.app)
 
 <br>
 
