@@ -21,7 +21,7 @@ google-landing-page (folder)
 
 <br>
 
-🔗 ![Google Landing Page](google-landing.png)
+![Google Landing Page](google-landing.png)
 
 ### The following issues are covered in the project;
 
