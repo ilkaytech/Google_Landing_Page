@@ -25,7 +25,7 @@ Project aims to create google landing page.
 
 ## Objective
 
-Build a Landing that is functionally similar to this: [Google Landing Page](https://anthonyins.github.io/google-landing/)
+Build a Landing that is functionally similar to this: [Google Landing Page](https://cw-google-landing-page.netlify.app)
 
 ### The following issues are covered in the project;
 
