@@ -7,7 +7,7 @@ Project aims to create google landing page.
 ## Project Skeleton
 
 ```
-google-landing-page (folder)
+Google Landing Page (folder)
 |
 |----readme.md
 |----images
