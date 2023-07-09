@@ -9,10 +9,11 @@ Project aims to create google landing page.
 ```
 Google Landing Page (folder)
 |
-|----readme.md
-|----images
-|----index.html
-|----style.css
+|----readme.md         # Definition of the project
+|----img               # Images of the project
+|----solution
+        |----index.html
+        |----style.css
 ```
 
 ## Outcome
